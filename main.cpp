@@ -1,3 +1,8 @@
+/*
+Гра Сапер v1.00
+Автор Солод Т.А.
+*/
+
 #include <SFML/Graphics.hpp>
 #include <time.h>
 #include <iostream>
@@ -28,6 +33,7 @@ std::string intToString(int m)
 	toStringConv >> tempString;
 	return tempString;
 }
+
 // створення та відображення меню гри, перемальовування вікна для обраного рівня
 void menu(RenderWindow& window)
 {
