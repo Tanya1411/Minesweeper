@@ -1,0 +1,43 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\User\source\repos\Tanya1411\Minesweeper\x64\Debug Dynamic\resources уже существует.
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\10.png
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\12.png
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\15.png
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\bg1.png
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\ex.png
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\over.png
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\tiles.png
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\Vinograd.otf
+  C:\Users\User\source\repos\Tanya1411\Minesweeper\resources\win.png
+  Скопировано файлов:         9.
+  main.cpp
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(48): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(49): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(50): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(51): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(102): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(183): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(215): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\tanya1411\minesweeper\main.cpp(227): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Minesweeper.vcxproj -> C:\Users\User\source\repos\Tanya1411\Minesweeper\x64\Debug Dynamic\Minesweeper.exe
